@@ -18,7 +18,7 @@ function App() {
         </div>
         <div className="button_icon">
           <img className="cat" src={cat}/>
-          <button className="btn1">Free Download</button>
+          <button className="btn1">Freee Download</button>
           <button className="delet">x</button>
         </div>
       </header>
